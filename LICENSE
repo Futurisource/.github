@@ -1,0 +1,84 @@
+Futurisource  Open Source License (FL-OSL v1.0)
+Copyright (c) 2025 Futurisource 
+
+=========================================================
+FUTURISOURCE  OPEN SOURCE LICENSE — VERSION 1.0
+=========================================================
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use,
+copy, modify, merge, and distribute the Software, subject to the following
+conditions:
+
+---
+
+1. OPEN SOURCE REQUIREMENT
+
+Any modified version or derivative work of this Software must be released
+publicly under this same license (FL-OSL v1.0) or a compatible open source
+license. You may NOT distribute modified versions as closed-source or
+proprietary software.
+
+---
+
+2. ATTRIBUTION REQUIREMENT
+
+All distributions, modifications, or derivative works must:
+
+  a) Retain this license file and the original copyright notice.
+  b) Clearly state that the work is derived from a Futurisource  project.
+  c) Include a visible credit in your project's README, documentation, or
+     about page in the following form:
+
+       "Based on [Original Project Name] by Futurisource 
+        https://github.com/futurisource-"
+
+  d) If you share your work publicly in a Discord server, you MUST tag or
+     mention Futurisource  using our official Discord handle or server
+     link: https://discord.gg/futurisource
+
+---
+
+3. NON-COMMERCIAL USE ONLY
+
+This Software may NOT be used for commercial purposes. This includes but is
+not limited to:
+
+  - Selling the Software or derivative works
+  - Using the Software as part of a paid product or SaaS offering
+  - Integrating the Software into a commercial service that generates revenue
+  - Offering the Software under a commercial license
+
+For commercial use inquiries, contact: license@futurisource.dev
+
+---
+
+4. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
+USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+5. VIOLATION
+
+Failure to comply with any of the above conditions automatically terminates
+your rights under this license. Futurisource  reserves the right to
+pursue action against violations of the attribution and non-commercial clauses.
+
+---
+
+Summary (not a substitute for the full license above):
+✅ Use it freely
+✅ Modify it
+✅ Share it — but keep it open source
+✅ Credit Futurisource 
+✅ Tag us on Discord when you share
+❌ Do NOT use it commercially
+❌ Do NOT make it closed source
