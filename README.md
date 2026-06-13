@@ -1,8 +1,8 @@
-# 🚀 Futurisource Labs
+# 🚀 Futurisource
 
 > **Building the tools that build the future — together.**
 
-Futurisource Labs is an open source community where developers of all levels come together to design, build, and ship tools that make developers' lives easier. Whether you're writing your first pull request or your thousandth, there's a place for you here.
+Futurisource is an open source community where developers of all levels come together to design, build, and ship tools that make developers' lives easier. Whether you're writing your first pull request or your thousandth, there's a place for you here.
 
 ---
 
