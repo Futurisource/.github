@@ -1,4 +1,4 @@
-# Contributing to Futurisource Labs 🛠️
+# Contributing to Futurisource 🛠️
 
 Welcome! We're thrilled you want to contribute. This guide covers everything you need to go from zero to merged PR.
 
@@ -6,7 +6,7 @@ Welcome! We're thrilled you want to contribute. This guide covers everything you
 
 ## 🌱 First Time Here?
 
-1. **Join our Discord** → [discord.gg/futurisourcelabs](https://discord.gg/futurisourcelabs)
+1. **Join our Discord** → [discord.gg/futurisource](https://discord.gg/futurisource)
 2. Introduce yourself in `#introductions`
 3. Browse open issues with the `good first issue` label
 4. Comment on an issue to claim it — no silent PRs please!
@@ -15,7 +15,7 @@ Welcome! We're thrilled you want to contribute. This guide covers everything you
 
 ## 🗺️ Contribution Pathways
 
-Everyone starts somewhere. Here's how you grow at Futurisource Labs:
+Everyone starts somewhere. Here's how you grow at Futurisource:
 
 ### 🔰 Newcomer
 Your first steps:
@@ -46,7 +46,7 @@ Nominated by the community:
 Org-level ownership:
 - Final review on critical PRs
 - Org-wide architectural decisions
-- Represent Futurisource Labs publicly
+- Represent Futurisource publicly
 
 ---
 
@@ -54,7 +54,7 @@ Org-level ownership:
 
 ### 1. Fork & Clone
 ```bash
-git clone https://github.com/futurisource-labs/<repo-name>.git
+git clone https://github.com/futurisource/<repo-name>.git
 cd <repo-name>
 ```
 
@@ -75,7 +75,7 @@ git checkout -b fix/the-bug-you-are-fixing
 - Use the PR template provided
 - Link the issue it closes: `Closes #123`
 - Add a short description of what changed and why
-- Tag `@futurisource-labs/reviewers` for review
+- Tag `@futurisource/reviewers` for review
 
 ---
 
@@ -132,8 +132,8 @@ Monthly top contributors get a **Spotlight post** on our blog.
 
 - Ask in `#help` on Discord — no question is too small
 - Tag a `Core Member` or `Maintainer` on your issue
-- Email: [contribute@futurisourcelabs.dev](mailto:contribute@futurisourcelabs.dev)
+- Email: [contribute@futurisource.dev](mailto:contribute@futurisource.dev)
 
 ---
 
-Thank you for being part of Futurisource Labs. Every contribution, big or small, moves us forward. 🚀
+Thank you for being part of Futurisource. Every contribution, big or small, moves us forward. 🚀
