@@ -6,7 +6,7 @@
 
 ## 🙋 What is Futurisource ?
 
-**Futurisource ** is an open source community where developers of **all levels** come together to design, build, and ship tools that make developers' lives easier.
+**Futurisource** is an open source community where developers of **all levels** come together to design, build, and ship tools that make developers' lives easier.
 
 We build:
 - 🖥️ CLI utilities & terminal helpers
