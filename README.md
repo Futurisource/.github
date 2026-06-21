@@ -36,7 +36,7 @@ No idea is too small. If it helps a developer, it belongs here.
 ## 🛠️ How to Get Involved
 
 ### 1. Join the Community
-👉 [Join our Discord](https://discord.gg/futurisourcelabs) — introduce yourself in `#introductions`
+👉 [Join our Discord](https://discord.gg/TbgqaKUKTClabs) — introduce yourself in `#introductions`
 
 ### 2. Explore Projects
 Browse our repositories and look for issues tagged:
@@ -95,7 +95,7 @@ See [LICENSE](./LICENSE) for full terms.
 
 ## 🤝 Connect
 
-- 💬 Discord: [discord.gg/futurisource](https://discord.gg/futurisource)
+- 💬 Discord: [discord.gg/TbgqaKUKTC](https://discord.gg/TbgqaKUKTC)
 - 🐦 Twitter/X: [@Futurisource](https://twitter.com/futurisource)
 - 🌐 Website: [futurisource.dev](https://futurisource.dev)
 

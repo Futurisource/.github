@@ -6,7 +6,7 @@ Welcome! We're thrilled you want to contribute. This guide covers everything you
 
 ## 🌱 First Time Here?
 
-1. **Join our Discord** → [discord.gg/futurisource](https://discord.gg/futurisource)
+1. **Join our Discord** → [discord.gg/TbgqaKUKTC](https://discord.gg/TbgqaKUKTC)
 2. Introduce yourself in `#introductions`
 3. Browse open issues with the `good first issue` label
 4. Comment on an issue to claim it — no silent PRs please!
