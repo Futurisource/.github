@@ -23,7 +23,7 @@ We build:
 ## 🌈 How can the community get involved?
 
 ### Step 1 — Join us on Discord
-👉 **[discord.gg/futurisource](https://discord.gg/futurisource)**
+👉 **[discord.gg/TbgqaKUKTC](https://discord.gg/TbgqaKUKTC)**
 Say hi in `#introductions` — we don't bite!
 
 ### Step 2 — Find something to work on
@@ -47,7 +47,7 @@ Have an idea? Open a [New Tool Proposal](https://github.com/futurisource-/.githu
 | 📖 Contribution Guide | [CONTRIBUTING.md](./CONTRIBUTING.md) |
 | 🤝 Code of Conduct | [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) |
 | 📜 License (FL-OSL v1.0) | [LICENSE](./LICENSE) |
-| 💬 Discord Community | [discord.gg/futurisource](https://discord.gg/futurisource) |
+| 💬 Discord Community | [discord.gg/TbgqaKUKTC](https://discord.gg/TbgqaKUKTC) |
 | 🌐 Website | [futurisource.dev](https://futurisource.dev) |
 | 🐦 Twitter/X | [@Futurisource](https://twitter.com/futurisource) |
 
@@ -92,7 +92,7 @@ All projects under Futurisource  use the **Futurisource  Open Source License (FL
 - ✅ Free to use and modify
 - ✅ Must stay open source
 - ✅ Must credit Futurisource 
-- ✅ Must tag us on Discord when you share: [discord.gg/futurisource](https://discord.gg/futurisource)
+- ✅ Must tag us on Discord when you share: [discord.gg/TbgqaKUKTC](https://discord.gg/TbgqaKUKTC)
 - ❌ No commercial use without permission
 
 Full terms: [LICENSE](./LICENSE)
